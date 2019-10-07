@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOGMLKCR
 
+[GeneratedDocument1]
+DocumentPath=Eric.cmp
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\*.*
 IncludeSubFolders=1
