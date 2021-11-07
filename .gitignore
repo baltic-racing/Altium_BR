@@ -3,3 +3,8 @@ templates/History
 *.Zip
 *.Zip
 *.Zip
+*.CMPPreview
+*.csvPreview
+*.repPreview
+*.REP
+*.rep
