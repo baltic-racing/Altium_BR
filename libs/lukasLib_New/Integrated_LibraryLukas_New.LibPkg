@@ -73,14 +73,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUUXTAMF
 
-[GeneratedDocument1]
-DocumentPath=SchlibLukas.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=SchlibLukas.rep
-DItemRevisionGUID=
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
